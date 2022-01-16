@@ -10,6 +10,9 @@ I'm web backend developer.
 ### Spec
 
 HTML5 / CSS3
+
 JavaScript
+
 Docker
+
 Node.js
